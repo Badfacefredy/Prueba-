@@ -1,0 +1,6 @@
+{
+  "name": "LyricSync",
+  "description": "Sincronizador avanzado de letras LRC e incrustador en canciones",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
